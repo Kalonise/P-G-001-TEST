@@ -15,7 +15,7 @@ namespace P_G_001_TEST.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View();  
         }
 
         public IActionResult Privacy()
